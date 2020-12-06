@@ -1,0 +1,7 @@
+MSD Project
+
+  - add the zip file to arduino library (sketch --> include library --> add .zip file..)
+  - comments explaining the code are still in there. Use it as a reference
+  - don't forget to run proteus as administrator when you open it, and also have the arduino library added to proteus
+
+code and design from : https://simple-circuit.com/arduino-dht11-sensor-lcd-proteus/
